@@ -1,5 +1,5 @@
 #REMEMBER TO RUN AS SUDO
-echo Installing vim for editing (Better than emacs)
+echo "Installing vim for editing (Better than emacs)"
 apt-get install vim
 echo Set PermitRootLogin equal to no
 vim /etc/ssh/ssh_config
